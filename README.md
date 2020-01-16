@@ -14,7 +14,7 @@ If you would love to keep updating this template, please keep your codes in sepa
 - js/widgets.js (JavaScript for widgets)
 - js/menu.js (JavaScript for loading the menu bar)
 
-From version 3.0, the menu bar at the top is moved into a single file (menu.html) for better management. Each template page will now use jQuery to load the menu bar file (menu.js), as shown below:
+From version 3.0, the menu bar at the top is moved into a single file (menu.html) for better management. Each template page will now use jQuery to load the menu bar file (menu.js), as shown below:scasa
 ```html
 <script src="js/menu.js"></script>
 ```
